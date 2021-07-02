@@ -1,7 +1,7 @@
 # A python App that can track Amazon product prices
 The purpose of this app is to track the price of a specific product on a day to day basis and notify you when it falls. In simple words, it is tracking when the sales of a particular product are on the amazon app.
 
-###Pre-requisites 
+### Pre-requisites 
 You will have to download Visual Studio Code or Pycharm to run this app. There are other IDE's but these two are the most user-friendly and it will be more easier to download libraries using it.
 
 First you need to download the following libraries by typing this command in the respective terminals of the IDE:
